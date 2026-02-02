@@ -5,7 +5,7 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "Hi.";
+        return "Gradle collaborative workflow completed successfully..";
     }
 
     public static void main(String[] args) {
